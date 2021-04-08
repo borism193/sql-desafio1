@@ -71,7 +71,7 @@ VALUES (1,'Carlos', '2020-12-26', 'feliz navidad atrasada para ti pame', 'un sal
 INSERT INTO post (nombre_de_usuario, fecha_de_creacion, contenido, descripcion, titulo)
 VALUES ('Margarita', '2021-04-02', 'hola mucho gusto mi nombre es Margarita y soy nueva en la plataforma espero que nos llevemos bien', 'ingresando a la plataforma', 'soy nueva');
 
---Ingresar 5 comentarios para el post de Margarita
+--Ingresar 5 comentarios para el post de Margarita.
 
 INSERT INTO comentarios (id, nombre_de_usuario, fecha_de_creacion, contenido, descripcion)
 VALUES (8, 'pamela', '2021-04-05', 'bienvenida amiga ojala la pases super con nosotros chiquillos vengan a saludar', 'saludo de bienvenida'),
